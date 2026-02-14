@@ -1,0 +1,12 @@
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\bin\Debug\net9.0\MySubjectProject.deps.json
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\bin\Debug\net9.0\MySubjectProject.dll
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\bin\Debug\net9.0\MySubjectProject.pdb
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\obj\Debug\net9.0\MySubjectProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\obj\Debug\net9.0\MySubjectProject.AssemblyInfoInputs.cache
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\obj\Debug\net9.0\MySubjectProject.AssemblyInfo.cs
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\obj\Debug\net9.0\MySubjectProject.csproj.CoreCompileInputs.cache
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\obj\Debug\net9.0\MySubjectProject.dll
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\obj\Debug\net9.0\refint\MySubjectProject.dll
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\obj\Debug\net9.0\MySubjectProject.pdb
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\obj\Debug\net9.0\ref\MySubjectProject.dll
+C:\BSUIR\6sem\SPP_labs\lab1\MySubjectProject\obj\Debug\net9.0\MySubjectProject.sourcelink.json

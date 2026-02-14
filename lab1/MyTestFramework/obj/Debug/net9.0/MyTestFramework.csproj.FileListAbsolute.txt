@@ -1,0 +1,12 @@
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\bin\Debug\net9.0\MyTestFramework.deps.json
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\bin\Debug\net9.0\MyTestFramework.dll
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\bin\Debug\net9.0\MyTestFramework.pdb
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\obj\Debug\net9.0\MyTestFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\obj\Debug\net9.0\MyTestFramework.AssemblyInfoInputs.cache
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\obj\Debug\net9.0\MyTestFramework.AssemblyInfo.cs
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\obj\Debug\net9.0\MyTestFramework.csproj.CoreCompileInputs.cache
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\obj\Debug\net9.0\MyTestFramework.dll
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\obj\Debug\net9.0\refint\MyTestFramework.dll
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\obj\Debug\net9.0\MyTestFramework.pdb
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\obj\Debug\net9.0\ref\MyTestFramework.dll
+C:\BSUIR\6sem\SPP_labs\lab1\MyTestFramework\obj\Debug\net9.0\MyTestFramework.sourcelink.json

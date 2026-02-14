@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TestRunner/1.0.0": {
+        "dependencies": {
+          "MyProject.Tests": "1.0.0",
+          "MyTestFramework": "1.0.0"
+        },
+        "runtime": {
+          "TestRunner.dll": {}
+        }
+      },
+      "MyProject.Tests/1.0.0": {
+        "dependencies": {
+          "MySubjectProject": "1.0.0",
+          "MyTestFramework": "1.0.0"
+        },
+        "runtime": {
+          "MyProject.Tests.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MySubjectProject/1.0.0": {
+        "runtime": {
+          "MySubjectProject.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MyTestFramework/1.0.0": {
+        "runtime": {
+          "MyTestFramework.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestRunner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyProject.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySubjectProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyTestFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
