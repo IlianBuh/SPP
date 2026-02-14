@@ -1,0 +1,140 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "MyProject.Tests/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MySubjectProject": "1.0.0",
+          "MyTestFramework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyProject.Tests.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyProject.Tests.dll": {}
+        }
+      },
+      "MySubjectProject/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MySubjectProject.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MySubjectProject.dll": {}
+        }
+      },
+      "MyTestFramework/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MyTestFramework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyTestFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyProject.Tests/1.0.0": {
+      "type": "project",
+      "path": "../MyProject.Tests/MyProject.Tests.csproj",
+      "msbuildProject": "../MyProject.Tests/MyProject.Tests.csproj"
+    },
+    "MySubjectProject/1.0.0": {
+      "type": "project",
+      "path": "../MySubjectProject/MySubjectProject.csproj",
+      "msbuildProject": "../MySubjectProject/MySubjectProject.csproj"
+    },
+    "MyTestFramework/1.0.0": {
+      "type": "project",
+      "path": "../MyTestFramework/MyTestFramework.csproj",
+      "msbuildProject": "../MyTestFramework/MyTestFramework.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "MyProject.Tests >= 1.0.0",
+      "MyTestFramework >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ilian\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\BSUIR\\6sem\\SPP_labs\\lab2\\TestRunner\\TestRunner.csproj",
+      "projectName": "TestRunner",
+      "projectPath": "C:\\BSUIR\\6sem\\SPP_labs\\lab2\\TestRunner\\TestRunner.csproj",
+      "packagesPath": "C:\\Users\\ilian\\.nuget\\packages\\",
+      "outputPath": "C:\\BSUIR\\6sem\\SPP_labs\\lab2\\TestRunner\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ilian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\BSUIR\\6sem\\SPP_labs\\lab2\\MyProject.Tests\\MyProject.Tests.csproj": {
+              "projectPath": "C:\\BSUIR\\6sem\\SPP_labs\\lab2\\MyProject.Tests\\MyProject.Tests.csproj"
+            },
+            "C:\\BSUIR\\6sem\\SPP_labs\\lab2\\MyTestFramework\\MyTestFramework.csproj": {
+              "projectPath": "C:\\BSUIR\\6sem\\SPP_labs\\lab2\\MyTestFramework\\MyTestFramework.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
